@@ -27,5 +27,5 @@ The goal of this project is to predict the price of a car based on various facto
 
 🏆 Outcome
 
-✅ Successfully built a machine learning model that can predict car prices with high accuracy.
+✅ Successfully built a machine learning model that can predict car prices with 91% accuracy.
 📌 The model can be used for price estimation in used car marketplaces and automobile businesses.
